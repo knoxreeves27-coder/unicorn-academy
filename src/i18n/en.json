@@ -38,12 +38,112 @@
   "actions": {
     "apply_now": "Apply Now",
     "explore_courses": "Explore Courses",
+    "view_all_results": "View All Results",
     "close": "Close",
     "confirm": "Confirm",
     "cancel": "Cancel",
     "delete": "Delete",
     "back_to_home": "Back to Home",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "retry": "Try Again",
+    "call_now": "Call"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error_title": "Unable to load data",
+    "error_desc": "There was a problem loading this section. Please click retry.",
+    "retry": "Retry"
+  },
+  "banner": {
+    "admission_open_title": "Admissions Open for Session 2026-27 (Prep to FSc) — Limited Seats Available",
+    "apply_now": "Apply Now"
+  },
+  "hero": {
+    "badge": "Admission Open",
+    "headline": "Empowering Academic Excellence from Prep to FSc",
+    "supporting": "Premier tuition coaching in Sadiqabad featuring subject specialists, structured weekly test series, and dedicated concept building for stellar board results.",
+    "apply_now": "Apply Now",
+    "whatsapp": "WhatsApp Us",
+    "call": "Call Directly",
+    "student_image_alt": "Unicorn Academy students focused during an academic session in Sadiqabad"
+  },
+  "stats": {
+    "students": "Active Students",
+    "teachers": "Dedicated Teachers",
+    "years": "Years of Excellence",
+    "results_percent": "Board Pass Rate"
+  },
+  "classes_preview": {
+    "heading": "Academic Levels & Programs",
+    "subheading": "Comprehensive coaching tailored for each stage of learning, from primary foundations to college entrance examinations.",
+    "view_courses": "View Detailed Syllabus",
+    "primary_title": "Primary Section",
+    "primary_classes": "Prep to Class 5",
+    "primary_desc": "Foundational reading, writing, and mathematical basics nurtured with individual teacher attention.",
+    "middle_title": "Middle Section",
+    "middle_classes": "Class 6 to 8",
+    "middle_desc": "Conceptual grounding in Science, Mathematics, and English preparing students for matric board demands.",
+    "matric_title": "Matriculation (BISE)",
+    "matric_classes": "Class 9 & 10 (Science)",
+    "matric_desc": "Board-focused coaching, chapter-wise test sessions, and past paper drilling for top rankings.",
+    "fsc_title": "FSc & Intermediate",
+    "fsc_classes": "Pre-Med, Pre-Engg, ICS, FA",
+    "fsc_desc": "In-depth scientific problem solving, board exam techniques, and medical/engineering test groundwork."
+  },
+  "why_us": {
+    "heading": "Why Unicorn Academy",
+    "subheading": "Four enduring educational commitments that make Unicorn Academy Sadiqabad's most trusted coaching center.",
+    "reason_1_title": "Experienced Subject Specialists",
+    "reason_1_desc": "Highly qualified teachers who break down challenging formulas and concepts with lucid clarity.",
+    "reason_2_title": "Complete Spectrum from Prep to FSc",
+    "reason_2_desc": "Consistent academic guidance under a single roof, avoiding transitions and maintaining learning rhythm.",
+    "reason_3_title": "Rigorous Tests & Transparent Reporting",
+    "reason_3_desc": "Weekly evaluations and regular attendance updates keeping parents continuously informed.",
+    "reason_4_title": "Personal Attention & Small Batches",
+    "reason_4_desc": "Balanced class sizes so every student's learning pace is respected and their queries resolved daily."
+  },
+  "toppers": {
+    "heading": "Our Board Achievers & Toppers",
+    "subheading": "Celebrating the outstanding dedication and top marks achieved by our students in board examinations.",
+    "marks_label": "Marks",
+    "session": "Session",
+    "view_all": "All Results",
+    "photo_alt": "Board high achiever portrait"
+  },
+  "testimonials": {
+    "heading": "What Parents & Students Say",
+    "subheading": "Genuine feedback from the families whose educational futures were shaped at Unicorn Academy.",
+    "parent_quote": "Parent Review"
+  },
+  "cta": {
+    "heading": "Ready to Achieve Your Highest Potential?",
+    "subheading": "Seats are strictly limited for the upcoming academic session. Register today to learn with Sadiqabad's most dedicated faculty.",
+    "apply_now": "Apply for Admission",
+    "whatsapp": "Inquire via WhatsApp"
+  },
+  "about_page": {
+    "title": "About Unicorn Academy",
+    "intro": "Established in Sadiqabad with a commitment to providing focused, high-standard academic tuition from Prep to FSc.",
+    "history_title": "Our History",
+    "mission_title": "Our Mission",
+    "vision_title": "Our Vision",
+    "values_title": "Our Core Values",
+    "image_alt": "Unicorn Academy campus environment in Sadiqabad",
+    "value_1_title": "Conceptual Understanding",
+    "value_1_desc": "Moving far beyond rote memorization into real mathematical and scientific understanding.",
+    "value_2_title": "Academic Discipline",
+    "value_2_desc": "Structured homework habits, punctual attendance, and consistent exam rehearsal.",
+    "value_3_title": "Personalized Care",
+    "value_3_desc": "Every student matters. We nurture individual strengths and address unique academic challenges.",
+    "cta_heading": "Join Sadiqabad's Leading Academy",
+    "cta_subheading": "Give your child the academic edge with proven mentors and a disciplined learning environment.",
+    "apply_now": "Apply Now"
+  },
+  "seo": {
+    "home_title": "Unicorn Academy Sadiqabad – Premier Tuition Academy in Sadiqabad",
+    "home_desc": "Unicorn Academy is a leading tuition academy in Sadiqabad offering Prep to FSc coaching, experienced teachers, and proven board exam results. Apply now.",
+    "about_title": "About Us – Unicorn Academy | Tuition Academy in Sadiqabad",
+    "about_desc": "Learn about Unicorn Academy, a premier tuition academy in Sadiqabad. Discover our history, mission, vision, and core educational values."
   },
   "home": {
     "admission_open": "Admission Open 2026-27",
@@ -86,8 +186,8 @@
   },
   "coming_soon": {
     "title": "Coming Soon",
-    "subtitle": "This section of Unicorn Academy Sadiqabad is scheduled for Phase 2 implementation. Check back soon!",
-    "status_badge": "Planned for Phase 2"
+    "subtitle": "This section of Unicorn Academy Sadiqabad is scheduled for subsequent phase implementation. Check back soon!",
+    "status_badge": "Under Development"
   },
   "not_found": {
     "title": "Page Not Found",

@@ -35,6 +35,43 @@ export interface SiteSettings {
   whatsapp: string;
   address_en: string;
   address_ur: string;
+  academy_slogan_en: string;
+  academy_slogan_ur: string;
+  about_history_en: string;
+  about_history_ur: string;
+  about_mission_en: string;
+  about_mission_ur: string;
+  about_vision_en: string;
+  about_vision_ur: string;
+}
+
+export interface Topper {
+  id: string;
+  name_en: string;
+  name_ur: string;
+  class_label_en: string;
+  class_label_ur: string;
+  marks: string;
+  year: number;
+  photo_url: string;
+  sort_order: number;
+}
+
+export interface Testimonial {
+  id: string;
+  name: string;
+  role_en: string;
+  role_ur: string;
+  text_en: string;
+  text_ur: string;
+  is_published: boolean;
+}
+
+export interface Stats {
+  students: number;
+  teachers: number;
+  years: number;
+  results_percent: number;
 }
 
 export type BadgeStatus = 'paid' | 'unpaid' | 'partial' | 'pending' | 'approved' | 'rejected';

@@ -1,5 +1,19 @@
-import { MOCK_CLASSES, MOCK_ANNOUNCEMENTS, MOCK_SITE_SETTINGS } from '../data/mock';
-import { ClassItem, Announcement, SiteSettings } from '../types';
+import {
+  MOCK_CLASSES,
+  MOCK_ANNOUNCEMENTS,
+  MOCK_SITE_SETTINGS,
+  MOCK_TOPPERS,
+  MOCK_TESTIMONIALS,
+  MOCK_STATS,
+} from '../data/mock';
+import {
+  ClassItem,
+  Announcement,
+  SiteSettings,
+  Topper,
+  Testimonial,
+  Stats,
+} from '../types';
 
 /**
  * Service Layer for Unicorn Academy Sadiqabad.
@@ -25,4 +39,19 @@ export async function getSiteSettings(): Promise<SiteSettings> {
 export async function getAnnouncements(): Promise<Announcement[]> {
   await delay(SIMULATED_LATENCY_MS);
   return [...MOCK_ANNOUNCEMENTS].filter((item) => item.is_published);
+}
+
+export async function getToppers(): Promise<Topper[]> {
+  await delay(SIMULATED_LATENCY_MS);
+  return [...MOCK_TOPPERS].sort((a, b) => a.sort_order - b.sort_order);
+}
+
+export async function getTestimonials(): Promise<Testimonial[]> {
+  await delay(SIMULATED_LATENCY_MS);
+  return [...MOCK_TESTIMONIALS].filter((item) => item.is_published);
+}
+
+export async function getStats(): Promise<Stats> {
+  await delay(SIMULATED_LATENCY_MS);
+  return { ...MOCK_STATS };
 }
