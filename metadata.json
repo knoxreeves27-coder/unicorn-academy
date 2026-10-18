@@ -1,0 +1,6 @@
+{
+  "name": "Unicorn Academy Sadiqabad",
+  "description": "Bilingual (Urdu & English) official web portal and foundation for Unicorn Academy Sadiqabad, a premier tuition academy from Prep to FSc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,99 @@
+{
+  "brand": {
+    "name": "Unicorn Academy Sadiqabad",
+    "short_name": "UA",
+    "tagline": "Excellence in Tuition · Prep to FSc",
+    "description": "Premier educational institution in Sadiqabad committed to academic brilliance, concept clarity, and top board results from Prep to FSc."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "teachers": "Teachers",
+    "results": "Results",
+    "gallery": "Gallery",
+    "admission": "Admission",
+    "contact": "Contact",
+    "portal_login": "Portal Login",
+    "open_menu": "Open navigation menu",
+    "close_menu": "Close navigation menu"
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Information",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "all_rights_reserved": "All rights reserved.",
+    "founded_tag": "Dedicated to student success in Sadiqabad, Punjab."
+  },
+  "badges": {
+    "paid": "Paid",
+    "unpaid": "Unpaid",
+    "partial": "Partial",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "actions": {
+    "apply_now": "Apply Now",
+    "explore_courses": "Explore Courses",
+    "close": "Close",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "back_to_home": "Back to Home",
+    "loading": "Loading..."
+  },
+  "home": {
+    "admission_open": "Admission Open 2026-27",
+    "hero_title": "Unicorn Academy Sadiqabad",
+    "hero_subtitle": "Specialized tuition coaching for Prep to FSc classes. Building deep conceptual foundations, exam mastery, and exceptional board rankings in Sadiqabad.",
+    "classes_heading": "Offered Academic Programs",
+    "classes_subheading": "Structured tuition sessions led by experienced subject specialists with continuous testing and progress tracking.",
+    "monthly_fee": "Monthly Fee",
+    "pkr": "PKR",
+    "timing": "Timing",
+    "subjects": "Core Subjects",
+    "components_heading": "Phase 1 Foundation & UI Components",
+    "components_subheading": "Verification of design tokens, interactive controls, accessible forms, modal dialogs, notifications, and RTL mirroring.",
+    "buttons_title": "Button System & States",
+    "badges_title": "Status Badges (Icon + Color + Text)",
+    "forms_title": "Form Fields & Input States",
+    "feedback_title": "Interactive Feedback (Modals & Toast)",
+    "btn_primary": "Primary Action",
+    "btn_secondary": "Secondary Outline",
+    "btn_accent": "Accent Gold",
+    "btn_danger": "Danger Action",
+    "btn_loading": "Processing State",
+    "field_name_label": "Student Legal Name",
+    "field_name_placeholder": "e.g. Muhammad Ahmad",
+    "field_name_hint": "Provide the exact name as recorded in school registration documents.",
+    "field_roll_label": "Academy Registration ID",
+    "field_roll_placeholder": "e.g. UA-2026-104",
+    "field_roll_error": "Invalid format. Registration ID must match pattern UA-YYYY-XXX.",
+    "trigger_success_toast": "Show Success Toast",
+    "trigger_error_toast": "Show Error Toast",
+    "open_confirm_modal": "Open Confirmation Modal",
+    "toast_success_title": "Registration Completed",
+    "toast_success_msg": "Student record was successfully saved to academy records.",
+    "toast_error_title": "Connection Notice",
+    "toast_error_msg": "Unable to connect to the server. Please check your connection and retry.",
+    "modal_demo_title": "Confirm Record Deletion",
+    "modal_demo_body": "Are you certain you want to remove this student entry? This action is irreversible and removes all academic records for this session.",
+    "modal_demo_confirm": "Yes, Delete Record",
+    "modal_demo_cancel": "Keep Record"
+  },
+  "coming_soon": {
+    "title": "Coming Soon",
+    "subtitle": "This section of Unicorn Academy Sadiqabad is scheduled for Phase 2 implementation. Check back soon!",
+    "status_badge": "Planned for Phase 2"
+  },
+  "not_found": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for does not exist or may have been moved."
+  },
+  "whatsapp": {
+    "button_label": "Chat with Admissions on WhatsApp"
+  }
+}
